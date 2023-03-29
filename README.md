@@ -6,6 +6,22 @@ Follow through the steps in the notebook to train the model.
 
 You may also need to download the TF object dectection API to make the training work.
 
+You would also need to download a detection model from the model zoo:
+https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md
+
+faster_rcnn_resnet50_v1 is used to conduct thr traininig.
+
+After you download everything requried, the set up of the model would be like the following:
+
+Folder
+  -Workspace
+    -trained model
+  -addons
+  -models
+  -scripts
+  -Testdataset
+
+
 Software Requirement
 Python 3.7.13
 Opencv-python-headless 4.1.2.30
