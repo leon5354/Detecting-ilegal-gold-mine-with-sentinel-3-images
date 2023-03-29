@@ -1,4 +1,4 @@
-# Detecting-ilegal-gold-mine-with-sentinel-3-images
+# Detecting-ilegal-mining-with-sentinel-3-images
 Disseration Object Dectection
 
 This is my disseration about detecting illegal mining from certian area.
