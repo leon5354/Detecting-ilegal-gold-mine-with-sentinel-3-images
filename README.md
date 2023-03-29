@@ -15,7 +15,7 @@ After you download everything requried, the set up of the model would be like th
 
 Folder
   -Workspace
-    -trained model
+    --trained model
   -addons
   -models
   -scripts
